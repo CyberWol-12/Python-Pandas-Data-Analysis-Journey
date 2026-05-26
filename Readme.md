@@ -1,7 +1,7 @@
-# 📊 Pandas & Data Analysis Projects Collection
+#  Pandas & Data Analysis Projects Collection
 
-Welcome to my **Pandas & Data Analysis Project Repository** 🚀  
-This repository contains multiple beginner-to-advanced level data analysis projects built using **Python, Pandas, NumPy, Matplotlib, and Data Visualization techniques**.
+Welcome to my **Pandas & Data Analysis Project Repository**  
+This repository contains multiple beginner-to-advanced level data analysis  simple projects built using **Python, Pandas, NumPy, Matplotlib, and Data Visualization techniques**, mainlly focus on data analysis.
 
 These projects helped me strengthen my skills in:
 - Data Cleaning
@@ -11,11 +11,10 @@ These projects helped me strengthen my skills in:
 - Handling Real-World Datasets
 - Problem Solving using Python
 
----
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
@@ -23,12 +22,10 @@ These projects helped me strengthen my skills in:
 - Jupyter Notebook
 - VS Code
 
----
 
 # 📂 Projects Included
 
-## ⚽ 1. FIFA World Cup Capstone Project
-📁 Folder: `01_FIFA_wordcup_capstone_project`
+##  1. FIFA World Cup Capstone Project
 
 ### Features:
 - Data Cleaning
@@ -37,10 +34,9 @@ These projects helped me strengthen my skills in:
 - Country-wise Insights
 - Data Visualization
 
----
 
-## 📱 2. Google Play Store Data Analysis
-📁 Folder: `google_playa-store`
+
+##  2. Google Play Store Data Analysis
 
 ### Features:
 - App Rating Analysis
@@ -49,10 +45,9 @@ These projects helped me strengthen my skills in:
 - Reviews & Installs Insights
 - Data Cleaning & Preprocessing
 
----
 
-## 🔍 3. Matching Strings by Similarity using Levenshtein Distance
-📁 Folder: `Matching_strings_by_similarity_using_lev...`
+
+##  3. Matching Strings by Similarity using Levenshtein Distance
 
 ### Features:
 - String Similarity Matching
@@ -60,10 +55,9 @@ These projects helped me strengthen my skills in:
 - Fuzzy Matching Techniques
 - Data Cleaning using Similarity Scores
 
----
+
 
 ## 🐉 4. Pokémon Dataset Analysis
-📁 Folder: `pokemon_dataset`
 
 ### Features:
 - Pokémon Stats Analysis
@@ -72,10 +66,7 @@ These projects helped me strengthen my skills in:
 - Legendary vs Normal Comparison
 - Exploratory Data Analysis (EDA)
 
----
-
-## ⚽ 5. Premier League Match Analysis
-📁 Folder: `premier_league_match_Analysis`
+##  5. Premier League Match Analysis
 
 ### Features:
 - Match Statistics
@@ -84,10 +75,8 @@ These projects helped me strengthen my skills in:
 - League Insights
 - Data Visualization
 
----
 
-## 🏀 6. The Birthday Paradox in the NBA
-📁 Folder: `the_birthday_paradox_inthe_NBA`
+##  6. The Birthday Paradox in the NBA
 
 ### Features:
 - Probability Concepts
@@ -95,7 +84,7 @@ These projects helped me strengthen my skills in:
 - NBA Player Dataset Analysis
 - Statistical Insights
 
----
+
 
 #  What I Learned
 
