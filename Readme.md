@@ -23,7 +23,7 @@ These projects helped me strengthen my skills in:
 - VS Code
 
 
-# 📂 Projects Included
+# Projects Included
 
 ##  1. FIFA World Cup Capstone Project
 
@@ -57,7 +57,7 @@ These projects helped me strengthen my skills in:
 
 
 
-## 🐉 4. Pokémon Dataset Analysis
+## 4. Pokémon Dataset Analysis
 
 ### Features:
 - Pokémon Stats Analysis
@@ -99,4 +99,3 @@ Through these projects, I learned:
 - Data visualization techniques
 - Problem-solving using Python
 
---
